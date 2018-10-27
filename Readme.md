@@ -1,6 +1,6 @@
 # 😄 Sublime 插件 ❤️ 🎁
 
-## 1.AutoPep8 ~
+## 1.AutoPep8 ~~
 ### 调整Python代码，使其符合PEP8的要求
 #### ctrl+shift+8 或者 ctrl+shift+r
 
